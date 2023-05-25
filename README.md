@@ -1,5 +1,5 @@
 # 
-<h1 align="center">Hi 👋, I'm asdfaf</h1>
+<h1 align="center">Hi 👋, I'm Pralash Vishwakarma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asd&label=Profile%20views&color=0e75b6&style=flat" alt="asd" /> </p>
